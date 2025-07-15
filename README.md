@@ -11,7 +11,7 @@ A responsive front-end replica of Tesla's official landing page, featuring:
 
 ## 🚀 Live Demo
 
-[View Demo](https://angelpriyall.github.io/tesla-clone)
+[View Demo](https://tesla-catalog.netlify.app/)
 
 ## 📁 Tech Stack
 
