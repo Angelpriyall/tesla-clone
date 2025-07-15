@@ -22,8 +22,8 @@ A responsive front-end replica of Tesla's official landing page, featuring:
 
 
 ## 📷 Screenshots
-
-![Tesla UI Preview](1.png)
+<img width="935" height="911" alt="Screenshot 2025-07-15 141634" src="https://github.com/user-attachments/assets/c6dfd7ad-6881-433c-a5ad-2db88f6999d2" />
+![Uploading Screenshot 2025-07-15 141634.png…]()
 
 ## 📦 Installation
 
