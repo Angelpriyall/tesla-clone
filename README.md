@@ -12,8 +12,10 @@ A responsive front-end replica of Tesla's official landing page, featuring:
 ## 🚀 Live Demo
 
 [View Demo](https://tesla-catalog.netlify.app/)
+[code]   https://1drv.ms/f/c/4a24de587de0393a/EvEEhGoDscNMirQ1IWhZlhEB0P0VYLhEvpKlgosrXy4CXA?e=xsBikv
 
-## 📁 Tech Stack
+## 📁 Tech stack
+
 
 - HTML5
 - CSS3 (Flexbox + Media Queries)
