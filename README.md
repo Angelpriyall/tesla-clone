@@ -15,7 +15,7 @@ A responsive front-end replica of Tesla's official landing page, featuring:
  
  [View code](https://1drv.ms/f/c/4a24de587de0393a/EvEEhGoDscNMirQ1IWhZlhEB0P0VYLhEvpKlgosrXy4CXA?e=xsBikv)
 
- (https://1drv.ms/f/c/4a24de587de0393a/EvEEhGoDscNMirQ1IWhZlhEB0P0VYLhEvpKlgosrXy4CXA?e=xsBikv)
+
 
 ## 📁 Tech stack
 
